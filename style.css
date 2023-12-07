@@ -1,0 +1,80 @@
+.vpravo{
+    text-align: right;
+    padding: 20px;
+    }
+    .nastred{
+        margin: auto;
+        text-align: center;
+        margin-bottom: auto;
+        font-size: 2rem;
+        padding: 1rem;
+    }
+    .velikost{
+        margin-bottom: -7px;
+        margin-top: 3.8rem;
+        font-size: 6rem;
+        text-align: center;
+        color: white;
+
+    }
+    .barva{
+        background-color: rgb(29, 28, 28);
+    }
+    .navbar {
+background-color: #333333;
+color: white;
+display: flex;
+justify-content: space-between;
+padding: 1rem;
+flex-wrap: wrap;
+position: fixed;
+width: 100%;
+
+}
+#navbar a {
+    color: white;
+    text-decoration: none;
+    text-align: right;
+}
+#navbar a:hover{
+    text-decoration: underline;
+}
+#okno {
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px solid;
+    width: 500px;
+    height: 40px;
+    font-size: 1rem;
+}
+.zapati {
+    background-color: rgb(17, 17, 18);
+    color: white;
+    text-align: left;
+    height: 3.5rem;
+    margin-top: 22rem;
+    font-size: 1.10rem;
+}
+.zapati-width {
+    padding-bottom: 0.5rem;
+    padding-top: 0.75rem;
+    margin-left: 1.75rem;
+}
+.zapati2 {
+    text-decoration: none;
+    background-color: rgb(17, 17, 18);
+    text-align: left;
+    height: 3rem;
+    margin-top: 0rem;
+    font-size: 1rem;
+}
+.zapati-width2 a:hover {
+    text-decoration: underline;
+}
+.zapati-width2 a {
+
+    text-decoration: none; 
+    color: white;
+    padding-top: 0.75rem;
+    margin-left: 2rem;
+}
